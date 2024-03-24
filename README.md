@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @HosungJoun
+- 👋 Hi there, I’m Hosung Joun
 - ⚡ Portfolio (in preparation): https://hosungjoun.github.io/
 
 <!---
